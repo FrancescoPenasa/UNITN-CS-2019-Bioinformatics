@@ -1,2 +1,2 @@
 # UNITN-CS-2019-Bioinformatics
-Algorithms for Bioinformatic and Bioinformatics Resources projects
+Algorithms for Bioinformatics and Bioinformatics Resources projects
